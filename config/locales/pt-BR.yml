@@ -10,6 +10,7 @@ pt-BR:
         created_at: 'Data'
         ip_address: 'IP'
         user: 'Usuário'
+        show_identifier: Mostrar Identificador
     models:
       spree/review:
         one: 'uma avaliação'
